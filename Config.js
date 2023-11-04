@@ -2,15 +2,15 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "919931122319"
-global.ownername = "Ayush pandey"
+global.ownernomer = "254758954991"
+global.ownername = "olie🤖"
 global.ytname = "YT: AyushBotz.inc"
 global.socialm = "GitHub: Ayushpandey023"
 global.location = "Indian"
 
-global.ownernumber = '919931122319'  //creator number
-global.ownername = 'Ayush' //owner name
-global.botname = '𝐌𝐀𝐑𝐈𝐀-𝐌𝐃' //name of the bot
+global.ownernumber = '254758954991'  //creator number
+global.ownername = 'OLIVER' //owner name
+global.botname = 'OLIE-VER' //name of the bot
 
 //sticker details
 global.stickername = '💙𓆩‎✘AʏᴜSʜ✘𓆪_✰'
@@ -27,10 +27,10 @@ global.support = 'https://chat.whatsapp.com/DYp7FwfL9xsKURihcdT0l8'
 global.prefa = ['.'] //put here your fav prefix like +×÷= etc.
 
 //false=disable and true=enable
-global.autoRecording = false //auto recording
+global.autoRecording = true //auto recording
 global.autoTyping = false //auto typing
 global.autorecordtype = false //auto typing + recording
-global.autoread = true //auto read messages
+global.autoread = false //auto read messages
 global.autobio = false //auto update bio
 global.anti92 = true //auto block +92 
 global.autoread_status = true //auto view status/story
@@ -44,7 +44,7 @@ global.mess = {
     prem: 'This feature can be used by premium user only',
     admin: 'This feature can be used by admin only',
     botAdmin: 'This feature can only be used when the bot is a group admin ',
-    owner: 'This feature can be used by owner only',
+    owner: 'This feature can be used by OLIVER only',
     group: 'This feature is only for groups',
     private: 'This feature is only for private chats',
     wait: 'In process... ',    
